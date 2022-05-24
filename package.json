@@ -1,0 +1,8 @@
+{
+    "name": "mercantille-solidity",
+    "description": "Smart Contracts for stuff that should've been there all along",
+    "version": "0.1.0",
+    "files": [
+        "/contracts/**/*.sol"
+    ]
+}
