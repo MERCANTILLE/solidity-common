@@ -4,5 +4,12 @@
     "version": "0.1.0",
     "files": [
         "/contracts/**/*.sol"
-    ]
+    ],
+    "publishConfig": {
+        "registry":"https://npm.pkg.github.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MERCANTILLE/solidity-common.git"
+    }
 }
